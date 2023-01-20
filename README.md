@@ -1,20 +1,19 @@
-### Hi there, I'm Ernie!
+### Hi there, I'm Bair!
 
-I'm a FullStack developer and a product manager with 7 years of experience. My work has brought in millions in investments to the companies I've worked for.
+I'm a Junior Frontend developer.
 
-- 🔭 I’m working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
-- 💼 My resume is [here](https://zernie.com/Resume.pdf)
-- 🌱 I’m open to Senior and above roles that provide a visa sponsorship to the USA
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zernie)
+- 🔭 I’m looking for a job
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aveev)
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
+</p>
 
-[![Zernie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zernie&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=CSS&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bair-A&count_private=true&show_icons=true)](https://github.com/Bair-A/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bair-A&hide=CSS&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)

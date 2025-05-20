@@ -17,8 +17,11 @@ I'm a Frontend developer.
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width='100'/>
   </a>
 </div>
+
+<br/>
 <div id="counter" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
+   <span>hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>

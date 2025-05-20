@@ -11,7 +11,7 @@ I'm a Junior Frontend developer.
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt2aDNnZDI3NG9iMzUzbmxoczl6eG41N2FnMnpod2dwYXExbWkyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100"/>
 </div> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

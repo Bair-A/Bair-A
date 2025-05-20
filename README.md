@@ -11,13 +11,12 @@ I'm a Frontend developer.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
+<br/>
 <div id="badges" align="center">
   <a href="https://t.me/aveev_bo">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width='100'/>
   </a>
 </div>
-
-<br/>
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
 </div>

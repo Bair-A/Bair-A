@@ -32,5 +32,6 @@ I'm a Frontend developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
 </p>
 
+### :fire: My Stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bair-A&count_private=true&show_icons=true)](https://github.com/Bair-A/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bair-A&hide=CSS&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)

@@ -3,7 +3,7 @@
 I'm a Frontend developer.
 
 - 🔭 I’m looking for a job
-- I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service <a href="https://foodster.pro/">Foodster</a>   <a href="https://t.me/aveev_bo">
+- I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service <a href="https://foodster.pro/">
     <img src="https://img.shields.io/badge/Foodster-green" alt="Telegram Badge" width='100'/>
   </a>
 

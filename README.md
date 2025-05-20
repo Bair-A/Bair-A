@@ -11,6 +11,12 @@ I'm a Frontend developer.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
+<div id="badges">
+  <a href="https://t.me/aveev_bo">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 **Languages and Tools:**
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

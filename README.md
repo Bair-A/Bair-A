@@ -15,6 +15,7 @@ I'm a Frontend developer.
   <a href="https://t.me/aveev_bo">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width='100'/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
 </div>
 
 **Languages and Tools:**

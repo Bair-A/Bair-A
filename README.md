@@ -6,19 +6,12 @@ I'm a Frontend developer.
 - I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service <a href="https://foodster.pro/">
     <img src="https://img.shields.io/badge/Foodster-green" alt="Telegram Badge" width='80'/>
   </a>
-- :mailbox:How to reach me:  <a href="https://t.me/aveev_bo">
+- :mailbox:How to reach me:   <a href="https://t.me/aveev_bo">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width='100'/>
   </a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
-
-<br/>
-<div id="badges" align="center">
-  <a href="https://t.me/aveev_bo">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge" width='100'/>
-  </a>
 </div>
 
 <br/>

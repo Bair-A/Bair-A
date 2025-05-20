@@ -3,7 +3,9 @@
 I'm a Frontend developer.
 
 - 🔭 I’m looking for a job
+- I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service Foodster https://foodster.pro/
 - 📫 You can reach me on [Telegram](https://t.me/aveev_bo)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>

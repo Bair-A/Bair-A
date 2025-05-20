@@ -3,9 +3,8 @@
 I'm a Frontend developer.
 
 - 🔭 I’m looking for a job
-- I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development
-  of the food delivery service <a href="https://foodster.pro/">
-    <img src="https://img.shields.io/badge/Foodster-green" alt="Telegram Badge" width='100'/>
+- I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service <a href="https://foodster.pro/">
+    <img src="https://img.shields.io/badge/Foodster-green" alt="Telegram Badge" width='80'/>
   </a>
 
 <div id="header" align="center">

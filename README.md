@@ -4,14 +4,12 @@ I'm a Frontend developer.
 
 - 🔭 I’m looking for a job
 - I worked for 2 years at 'ООО Элефант Про' as a Frontend Developer, participating in the development of the food delivery service <a href="https://foodster.pro/">Foodster</a>
-- 📫 You can reach me on [Telegram](https://t.me/aveev_bo)
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/aveev_bo">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>

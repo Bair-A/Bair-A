@@ -3,7 +3,7 @@
 I'm a Junior Frontend developer.
 
 - 🔭 I’m looking for a job
-- 📫 You can reach me on [Telegram](https://t.me/@aveev_bo)
+- 📫 You can reach me on [Telegram](https://t.me/aveev_bo)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>

@@ -20,8 +20,10 @@ I'm a Frontend developer.
 
 <br/>
 <div id="counter" align="center">
-   <span>hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
+   <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>

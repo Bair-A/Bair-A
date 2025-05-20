@@ -33,6 +33,6 @@ I'm a Frontend developer.
 </p>
 
 ### :fire: My Stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bair-A&count_private=true&show_icons=true)](https://github.com/Bair-A/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bair-A&layout=compact&theme=vision-friendly-dark&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bair-A&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Bair-A/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bair-A&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bair-A&hide=CSS&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)

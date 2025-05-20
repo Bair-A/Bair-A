@@ -17,6 +17,7 @@ I'm a Frontend developer.
   </a>
 </div>
 
+
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=Bair-A&style=flat-square&color=blue" alt=""/>
 </div>
